@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Jon
 
-<!--
-**JonBergman/JonBergman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I am a creative technologist from New Hampshire with over a decade of experience in building human-centered and accessible products with systems. My work spans a variety of enterprise and startup organizations, where I emphasize empathy, transparency, accountability, and leading by example.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Focus
+
+- **Human-Centered Design:** Crafting intuitive and accessible products.
+- **Design Systems:** Designing and developing design systems that scale.
+- **AI:** Leveraging new innovations in compute to scale design process and solve human problems
+- **Leadership:** Fostering collaborative and innovative teams
+
+## Portfolio
+
+Visit my [website](https://jonbergman.github.io) to learn more about my work and experience.
+
+## Connect
+
+- [Twitter](https://twitter.com/jonbergman)
+- [LinkedIn](https://www.linkedin.com/in/jonbergman)
